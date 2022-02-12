@@ -1,0 +1,15 @@
+.boyut {
+    height: 2em;
+    align-items: center;
+    background: #EEE8AA;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.parent {
+	text-align: center;
+	}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
